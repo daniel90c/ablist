@@ -1,3 +1,10 @@
 #Ublock personal list
 #test
 ||files.nyaa.se/be*$image
+
+! 7/1/2017 00:47:41 http://horriblesubs.info/
+||horriblesubs.info/images/b/block_banner.png$image
+
+! 7/1/2017 00:47:57 http://horriblesubs.info/
+horriblesubs.info##.message-blk.msgblk-container
+
