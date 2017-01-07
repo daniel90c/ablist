@@ -1,0 +1,3 @@
+#Ublock personal list
+#test
+||files.nyaa.se/be*$image
