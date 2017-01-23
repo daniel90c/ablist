@@ -19,6 +19,10 @@ konachan.net###lsidebar
 
 konachan.com##iframe[src="https://a.konachan.net/300.php"]
 konachan.net#iframe[src="https://a.konachan.net/300.php"]
+! 22/1/2017 22:47:40 http://konachan.com/post
+konachan.com##iframe[src="https://a.konachan.net/300.php"]
 
+! 22/1/2017 22:55:43 http://konachan.net/post
+||a.konachan.net/300.php$subdocument
 
 
