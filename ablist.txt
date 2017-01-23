@@ -25,5 +25,7 @@ konachan.net#iframe[src="https://a.konachan.net/300.php"]
 ! 22/1/2017 22:57:18 http://konachan.net/post
 konachan.net##iframe[src="https://a.konachan.net/300.php"]
 
+! 22/1/2017 22:59:46 http://konachan.net/post?page=5&tags=
+konachan.net##.sidebar > div:nth-of-type(5)
 
 
