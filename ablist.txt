@@ -29,3 +29,23 @@ konachan.net##iframe[src="https://a.konachan.net/300.php"]
 konachan.net##.sidebar > div:nth-of-type(5)
 
 
+! 18/5/2017 12:06:54 http://www.bittbox.com/illustrator/how-to-create-a-seamless-diagonal-pattern-in-illustrator
+www.bittbox.com###mc_embed_signup_scroll
+
+! 24/5/2017 17:17:33 http://knowyourmeme.com/memes/nuclear-gandhi
+||www.ora.tv/embed/partner/knowyourmeme/playlist/262/v/1$subdocument
+
+! 25/5/2017 10:59:41 http://hulkload.com/y2g3qzsd65nx
+||cdn.fileepic.com/download-be403168ae029563de7e1c686bebc94e.gif$image
+
+! 25/5/2017 10:59:52 http://hulkload.com/y2g3qzsd65nx
+||cdn.fileepic.com/download-15-be403168ae029563de7e1c686bebc94e.png$image
+
+! 25/5/2017 10:59:59 http://hulkload.com/y2g3qzsd65nx
+||cdn.fileepic.com/download-17-be403168ae029563de7e1c686bebc94e.png$image
+
+! 25/5/2017 11:00:44 http://hulkload.com/y2g3qzsd65nx
+hulkload.com##.contentback > div > center
+
+! 25/5/2017 11:00:58 http://hulkload.com/y2g3qzsd65nx
+hulkload.com##.contentback > div > div:nth-of-type(2)
